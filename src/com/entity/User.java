@@ -4,7 +4,8 @@ public class User {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-User user = new User();
+User usernew  = new User();
+
 	}
 
 }
