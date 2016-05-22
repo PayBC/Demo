@@ -42,4 +42,7 @@ public class Employee implements Serializable {
 	private String name;
 	private String masterChanges;
 
+	private String email;
+
+
 }
