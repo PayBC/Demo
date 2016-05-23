@@ -40,13 +40,9 @@ public class Employee implements Serializable {
 	}
 	
 	private String name;
-<<<<<<< Updated upstream
+
 	private String masterChanges;
-
-=======
 	private int age;
->>>>>>> Stashed changes
 	private String email;
-
-
+    private String address;
 }
