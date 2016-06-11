@@ -12,6 +12,8 @@ public class Emp {
 		list.add("rahul");
 		System.out.println("new line added");
 		list.add("Chris");
+		list.add("Chandu");
+		
 	}
 	
  
