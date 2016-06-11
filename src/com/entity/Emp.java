@@ -9,6 +9,8 @@ public class Emp {
 		list.add("Satbir");
 		list.add("Michael");
 		list.add("Pappu");
+		list.add("rahul");
+		System.out.println("new line added");
 	}
 	
  
